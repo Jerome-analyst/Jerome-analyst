@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="C:\Users\miles\Downloads\Untitled design.png" alt="Banner" />
-</p>
-
 <h2 align="center">👋 Hello, I'm Jerome Mendoza</h2>
+
+<p align="center">
+  <img src="https://github.com/Jerome-analyst/Jerome-analyst/blob/main/Banner.png" />
+</p>
 
 <p align="center">
   I'm a self-starter with a passion for storytelling through data, complemented by a flair for creative visualization. <br>
