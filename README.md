@@ -6,7 +6,7 @@ With a curiosity-driven mindset, I continuously explore new tools and techniques
 My goal is to bridge the gap between raw data and meaningful stories that drive real-world impact.
 
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Interesting About Me
 
 🎓 Studied BSIT Specialized in Business Analytics at  [Batangas State University](https://batstate-u.edu.ph), Philippines </br>
 📊 Building data dashboards and creative data visualizations  
