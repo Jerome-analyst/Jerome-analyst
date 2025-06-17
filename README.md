@@ -1,15 +1,4 @@
-<h2 align="center">👋 Hello, I'm Jerome Mendoza</h2>
 
-<p align="center">
-  <img src="https://github.com/Jerome-analyst/Jerome-analyst/blob/main/Banner.png" />
-</p>
-
-<p align="center">
-  I'm a self-starter with a passion for storytelling through data, complemented by a flair for creative visualization. <br>
-  I enjoy transforming complex data into clear, actionable insights that support smart decision-making. <br>
-  With a curiosity-driven mindset, I continuously explore new tools and techniques in the analytics space. <br>
-  My goal is to bridge the gap between raw data and meaningful stories that drive real-world impact.
-</p>
 
 
 ## 🧑‍💻 Interesting About Me
@@ -37,9 +26,4 @@
 
 # 💻 Tech Stack:
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jerome-analyst&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jerome-analyst&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+
