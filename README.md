@@ -10,7 +10,7 @@ My goal is to bridge the gap between raw data and meaningful stories that drive 
 
 🎓 Studied BSIT Specialized in Business Analytics at  [Batangas State University](https://batstate-u.edu.ph), Philippines </br>
 📊 Building data dashboards and creative data visualizations  
-🎥 Creating content about computers, tech, and data on [**TikTok**](www.tiktok.com/@curvs_crypt)  
+🎥 Creating content about computers, tech, and lifestyle on [**TikTok**](www.tiktok.com/@curvs_crypt)  
 🧠 Currently taking the Data Analytics path
 
 
