@@ -1,7 +1,9 @@
 <!-- Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jerome+Mendoza!;A+Data+Enthusiast+%F0%9F%93%8A;Creative+with+Tech+%26+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=26&pause=1500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jerome+Mendoza!;A+Data+Enthusiast;_Passionate+about+Tech+%26+Analytics" alt="Typing SVG" />
 </h1>
+
+
 
 ---
 
