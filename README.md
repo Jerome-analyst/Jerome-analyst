@@ -13,7 +13,7 @@
  **Studying BSIT Specialized in Business Analytics**  at [Batangas State University](https://batstate-u.edu.ph), Philippines  
  **Building data dashboards & creative data visualizations** </br>
  **Creating content about computers, tech, and lifestyle on** [**TikTok**](https://www.tiktok.com/@curvs_crypt)  
- **Currently taking the Business Analytics/Data Analytics/Engineering path**
+ **Currently taking the Business Analytics/Data Analytics/Data Engineering path**
 
 ---
 
