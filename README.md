@@ -1,6 +1,6 @@
 <!-- Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=26&pause=1500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jerome+Mendoza!;A+Data+Enthusiast;%C2%A0Passionate+about+Tech+%26+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=26&pause=1500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jerome+Mendoza!;A+Tech+Enthusiast;%C2%A0Passionate+about+Business+%26+Analytics" alt="Typing SVG" />
 </h1>
 
 
