@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=agora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-FF5733?style=for-the-badge&logo=target&logoColor=white" />
 </p>
+
 
 
