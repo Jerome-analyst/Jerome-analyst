@@ -11,10 +11,10 @@
 
 ##  About Me
 
- **Studying BSIT Specialized in Business Analytics**  at Batangas State University, Philippines  
- **Building data dashboards & creative data visualizations** </br>
+ Studying BSIT Specialized in Business Analytics at Batangas State University, Philippines  
+ Building data dashboards & creative data visualizations </br>
  **Creating content about computers, tech, and lifestyle on TikTok** </br>
- **Currently taking the Business Analytics/Data Analytics**
+ **Currently taking the Business Analytics/Data Analytics Path**
 ---
 
 ##  Tech Stack
